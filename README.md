@@ -1,1 +1,1 @@
-# Nvedia-RAG-application
+# Nvidia-RAG-application
